@@ -1,7 +1,7 @@
 # Image-crop
 This code will help anyone who is gathering their own dataset and has multiple images of different sizes and needs them to be square images(1:1).
 
-The tool is very easy to use as it requires just one click.
+The tool is very easy to use as it requires just one click and is a very user friengly GUI.
 The pixel value of the click is the top of the cropped image then the biggest square below that pixel will be drawn. if its not the square you want to crop you can click again and adjust according to you need.
 
 Steps to use the code:
