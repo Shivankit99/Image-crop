@@ -3,8 +3,8 @@ import cv2
 from PIL import Image, ImageTk
 import os
 root = Tk()
-path = r'D:\Traffic Sign recognition\dataset\Negative Samples'
-final_path = r'D:\Traffic Sign recognition\new\Negative samples'
+path = r'Enter path to original images'
+final_path = r'Enter path to final destination'
 
 def make_global():
 
